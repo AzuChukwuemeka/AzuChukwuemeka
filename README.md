@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 About Me
-- 🌱 Currently learning: **PHP**
+- 🌱 Currently learning: **Machine Learning**
 - 💡 Interested in: **Backend Engineering & System Design**
 - 💬 Ask me about: **Java (Spring Boot), JavaScript, PHP, Backend Architecture**
 - 📫 Reach me at: **chukwuemeka97@gmail.com**
